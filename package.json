@@ -1,0 +1,25 @@
+{
+  "name": "utilsjs",
+  "version": "0.0.1",
+  "description": "General JS utilities",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superDross/utilsJs.git"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "David Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superDross/utilsJs/issues"
+  },
+  "homepage": "https://github.com/superDross/utilsJs#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
